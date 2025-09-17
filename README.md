@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://coffee-2-fv.netlify.app" target="_blank">
+    <a href="https://coffee-brand-2-ui.vercel.app" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Coffee Brand</h3>
